@@ -1,0 +1,2 @@
+# kobra
+Normalize astronomical spectra
